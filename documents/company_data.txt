@@ -1,0 +1,7 @@
+PharmaChain operates 9 warehouses across Southeast Asia.
+They process 18,000 order lines per day.
+They manage 65,000 active SKUs.
+Their biggest challenge is medicine expiry tracking.
+They use FEFO — First Expired First Out.
+The company was founded in 2015.
+Revenue in 2024 was 450 million USD.
